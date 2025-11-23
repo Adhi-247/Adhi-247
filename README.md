@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Adeesha Prabashwara</h1>
 <h3 align="center">Future software engineer with a passion for impactful technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adhi-247&label=Profile%20views&color=0e75b6&style=flat" alt="adhi-247" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adhi-247&label=Profile%20views&color=0e75b6&style=flat" alt="adhi-247" /> </p>
 
 - 🎓 Sri Lanka Institute of Information Technology (SLIIT) **pursuing a BSc (Hons) in Information Technology – Software Engineering Specialization.**
 
