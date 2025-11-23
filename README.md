@@ -1,3 +1,4 @@
+<p align="center"><img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width = 100px /></p>
 <h1 align="center">Hi 👋, I'm Adeesha Prabashwara</h1>
 <h3 align="center">Future software engineer with a passion for impactful technology</h3>
 
