@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JAVA, HTML, MERN Stack, Springboot, JavaScript**
 
-- 👨‍💻 All of my projects are available at [my GITHUB Account](my GITHUB Account)
+- 👨‍💻 All of my projects are available at my GITHUB Account
 
 - 📫 How to reach me **adeeshaprabashwarasenarath7@gmail.com**
 
