@@ -39,6 +39,20 @@
 
 ---
 
+<h2 align="center">🏆 Athletic Achievements & Leadership</h2>
+<p align="center">
+  My journey in competitive football has taught me discipline, strategic thinking, and the power of teamwork. As a former team captain and national player, I bring leadership and a collaborative spirit to every project.
+</p>
+<ul align="center" style="list-style-type: none; padding-left: 0;">
+  <li>🏅 <b>Former Sri Lanka National Football Player</b> (2019/20)</li>
+  <li>🏅 <b>Sri Lanka Schools Sports Colours Winner</b> (2019)</li>
+  <li>🏅 <b>Former Captain of Rahula College Football Team</b></li>
+  <li>🏅 <b>Rahula College Colours Award Winner</b></li>
+  <li>🏅 <b>SLIIT Colours Award Winner</b></li>
+</ul>
+
+---
+
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
@@ -60,20 +74,6 @@
 
 ---
 
-<h2 align="center">🏆 Athletic Achievements & Leadership</h2>
-<p align="center">
-  My journey in competitive football has taught me discipline, strategic thinking, and the power of teamwork. As a former team captain and national player, I bring leadership and a collaborative spirit to every project.
-</p>
-<ul align="center" style="list-style-type: none; padding-left: 0;">
-  <li>🏅 <b>Former Sri Lanka National Football Player</b> (2019/20)</li>
-  <li>🏅 <b>Sri Lanka Schools Sports Colours Winner</b> (2019)</li>
-  <li>🏅 <b>Former Captain of Rahula College Football Team</b></li>
-  <li>🏅 <b>Rahula College Colours Award Winner</b></li>
-  <li>🏅 <b>SLIIT Colours Award Winner</b></li>
-</ul>
-
----
-
 <h2 align="center">🔥 My Contribution Graph</h2>
 
 <p align="center">
@@ -85,5 +85,5 @@
 <h2 align="center">👀 Profile Views</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adhi-247&style=flat&color=blueviolet" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Adhi-247&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views" />
 </p>
