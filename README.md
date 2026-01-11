@@ -17,7 +17,7 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://fb.com/adeesha prabashwara senarath" target="_blank">
+  <a href="https://www.facebook.com/share/18BNKZPXZp/?mibextid=wwXIfr" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
   <a href="https://instagram.com/a_d_h_i__7" target="_blank">
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Adhi-247&theme=radical&hide_border=true" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adhi-247&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -67,5 +67,5 @@
 <h2 align="center">👀 Profile Views</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adhi-247&style=flat&color=blueviolet">
+  <img src="https://komarev.com/ghpvc/?username=Adhi-247&style=flat&color=blueviolet" alt="Profile views" />
 </p>
