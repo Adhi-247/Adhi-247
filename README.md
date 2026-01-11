@@ -10,7 +10,7 @@
 💻 Passionate **Software Engineering Student (SLIIT)** with a strong foundation in building modern, scalable applications.  
 🌟 Interested in **Full-Stack Development, Mobile Apps, and UI/UX Design**.  
 🔥 Committed to leveraging my skills in **Java, MERN Stack, and Python** to solve real-world problems.  
-⚽️ Outside of coding, I bring the discipline and leadership from my background as a former national-level football player and team captain.
+⚽️ Outside of coding, I bring discipline and leadership from my background as a **former national-level football player and team captain**.  
 📧 Email: **adeeshaprabashwarasenarath7@gmail.com**  
 
 ---
@@ -18,7 +18,7 @@
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adeesha-prabashwara/" target="_blank">
+  <a href="https://www.linkedin.com/in/adeesha-prabashwara-549464386" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.facebook.com/share/18BNKZPXZp/?mibextid=wwXIfr" target="_blank">
@@ -36,20 +36,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,bootstrap,figma,androidstudio,python,php,kotlin,postman,git,github,c,cpp" />
 </p>
-
----
-
-<h2 align="center">🏆 Athletic Achievements & Leadership</h2>
-<p align="center">
-  My journey in competitive football has taught me discipline, strategic thinking, and the power of teamwork. As a former team captain and national player, I bring leadership and a collaborative spirit to every project.
-</p>
-<ul align="center" style="list-style-type: none; padding-left: 0;">
-  <li>🏅 <b>Former Sri Lanka National Football Player</b> (2019/20)</li>
-  <li>🏅 <b>Sri Lanka Schools Sports Colours Winner</b> (2019)</li>
-  <li>🏅 <b>SLIIT Colours Award Winner</b></li>
-  <li>🏅 <b>Former Captain of Rahula College Football Team</b></li>
-  <li>🏅 <b>Rahula College Colours Award Winner</b></li>
-</ul>
 
 ---
 
@@ -71,6 +57,20 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Adhi-247&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
 </p>
+
+---
+
+<h2 align="center">🏆 Athletic Achievements & Leadership</h2>
+<p align="center">
+  My journey in competitive football has taught me discipline, strategic thinking, and the power of teamwork. As a former team captain and national player, I bring leadership and a collaborative spirit to every project.
+</p>
+<ul align="center" style="list-style-type: none; padding-left: 0;">
+  <li>🏅 <b>Former Sri Lanka National Football Player</b> (2019/20)</li>
+  <li>🏅 <b>Sri Lanka Schools Sports Colours Winner</b> (2019)</li>
+  <li>🏅 <b>Former Captain of Rahula College Football Team</b></li>
+  <li>🏅 <b>Rahula College Colours Award Winner</b></li>
+  <li>🏅 <b>SLIIT Colours Award Winner</b></li>
+</ul>
 
 ---
 
