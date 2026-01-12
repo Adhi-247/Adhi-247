@@ -1,17 +1,17 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&duration=2800&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi+I'm+Adeesha+Prabashwara;Future+Software+Engineer;Full-Stack+Developer;Tech+Enthusiast+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&duration=2800&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi+I'm+Adeesha+Prabashwara;Future+Software+Engineer;Full-Stack+Developer;Tech+Enthusiast+🔥" />
 </p>
 
 ---
 
 <h2 align="center">🚀 About Me</h2>
 
-💻 Passionate **Software Engineering Student (SLIIT)** with a strong foundation in building modern, scalable applications.  
+💻 Software Engineering student at **SLIIT**, passionate about building modern and scalable applications.  
 🌟 Interested in **Full-Stack Development, Mobile Apps, and UI/UX Design**.  
-🔥 Committed to leveraging my skills in **Java, MERN Stack, and Python** to solve real-world problems.  
+🔥 Currently working with **Java, MERN Stack, and Python** to solve real-world problems.  
 ⚽️ Outside of coding, I bring discipline and leadership from my background as a **former national-level football player and team captain**.  
-📧 Email: **adeeshaprabashwarasenarath7@gmail.com**  
+📧 Email: **adeeshaprabashwarasenarath7@gmail.com**
 
 ---
 
@@ -31,7 +31,7 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb,mysql,bootstrap,figma,androidstudio,python,php,kotlin,postman,git,github,c,cpp" />
@@ -39,16 +39,12 @@
 
 ---
 
-<h2 align="center">🏆 Athletic Achievements & Leadership</h2>
-<p align="center">
-  My journey in competitive football has taught me discipline, strategic thinking, and the power of teamwork. As a former team captain and national player, I bring leadership and a collaborative spirit to every project.
-</p>
-<ul align="center" style="list-style-type: none; padding-left: 0;">
-  <li>🏅 <b>Former Sri Lanka National Football Player</b> (2019/20)</li>
-  <li>🏅 <b>Sri Lanka Schools Sports Colours Winner</b> (2019)</li>
-  <li>🏅 <b>Former Captain of Rahula College Football Team</b></li>
-  <li>🏅 <b>Rahula College Colours Award Winner</b></li>
-  <li>🏅 <b>SLIIT Colours Award Winner</b></li>
+<h2 align="center">🏅 Leadership & Achievements</h2>
+
+<ul align="center" style="list-style-type:none;">
+  <li>Former Sri Lanka national-level football player</li>
+  <li>Captain, Rahula College Football Team</li>
+  <li>Multiple Colours Award recipient (School & SLIIT)</li>
 </ul>
 
 ---
@@ -66,15 +62,7 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adhi-247&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-<h2 align="center">🔥 My Contribution Graph</h2>
+<h2 align="center">🔥 Contribution Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adhi-247&theme=react-dark&hide_border=true&area=true" />
@@ -85,5 +73,5 @@
 <h2 align="center">👀 Profile Views</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adhi-247&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Adhi-247&label=Profile+Views&color=blueviolet&style=flat-square" />
 </p>
