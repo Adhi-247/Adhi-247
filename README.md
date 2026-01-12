@@ -43,8 +43,7 @@
 
 <ul align="center" style="list-style-type:none;">
   <li>Former Sri Lanka national-level football player(2019/20)</li>
-  <li>Captain, Rahula College Football Team</li>
-  <li>Multiple Colours Award recipient (School & SLIIT)</li>
+  <li>Former Captain, Rahula College Football Team</li>
 </ul>
 
 ---
